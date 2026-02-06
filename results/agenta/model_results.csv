@@ -1,0 +1,3 @@
+model,exposure,scale,estimate,ci_low,ci_high,p_value,n,df
+Survey-weighted linear,25(OH)D per 10 nmol/L,PHQ-9 points,-0.04530034909324991,-0.06755500555883304,-0.02304569262766678,0.0005845692799133495,3834,15
+Survey-weighted logistic,25(OH)D per 10 nmol/L,Odds ratio (PHQ-9 ≥10),0.9440909649291869,0.8984284416363746,0.9920742807713411,0.025816690529714137,3834,15
